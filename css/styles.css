@@ -1,0 +1,71 @@
+body {
+  font-family: "Montserrat";
+}
+
+#padding {
+  padding: 3% 15%;
+}
+
+#title {
+  background-color: #ff4c68;
+}
+
+.H1 {
+  color: #fff;
+  font-size: 3.5em;
+  line-height: 1.5;
+}
+
+#company-name {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 15px;
+  font-size: medium;
+  font-weight: 700;
+}
+
+/* download-buttons */
+
+.Download-Button {
+  margin: 5% 3% 5% 0;
+}
+
+/* title-image */
+
+.title-image {
+  width: 60%;
+}
+
+.rotation {
+  transform: rotate(25deg);
+}
+
+/* features */
+
+.features {
+  text-align: center;
+}
+
+#about-features {
+  padding: 5% 10%;
+  width: 90%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.features-h3-p {
+  margin: 30% 14% 20%;
+}
+
+.features-h3 {
+  font-family: serif;
+  font-size: 2rem;
+  font-weight: 800;
+}
+
+.features-p {
+  font-size: 1.18rem;
+}
